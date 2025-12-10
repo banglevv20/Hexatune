@@ -48,3 +48,6 @@ HexaTune is proprietary software.
 All rights reserved © 2024 Levv.
 
 Redistribution, modification, or commercial use without permission is strictly prohibited.
+
+
+**Note:** This project is closed-source. Documentation only.
