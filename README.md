@@ -1,9 +1,8 @@
 <h1 align="center">HexaTune</h1>
 
-  ![20251210_200305](https://github.com/user-attachments/assets/35fd564a-c3b0-4538-b35a-749ec930b8ba)
+  ![hexatune](https://github.com/user-attachments/assets/7ace764c-2a1c-43e9-a05a-352c39477199)
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/120px-Google_Play_Store_badge_EN.svg.png" width="60"> [Download HexaTune](https://play.google.com/store/apps/details?id=com.levv.hexatune&pcampaignid=web_share)
-
 
 ## Hexatune
 HexaTune is a lightweight system refinement engine designed to improve runtime behavior and device responsiveness through smart, adaptive tweaks. All adjustments are applied safely, work without root, and can target all apps or specific apps depending on user preference.
